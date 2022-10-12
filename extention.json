@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "antfu.icons-carbon",
+    "arcticicestudio.nord-visual-studio-code",
+    "bradlc.vscode-tailwindcss",
+    "cdonohue.quill-icons",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "ms-azuretools.vscode-docker",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-wsl",
+    "yzhang.markdown-all-in-one"
+  ]
+}
