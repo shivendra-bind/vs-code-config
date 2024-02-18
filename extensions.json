@@ -1,19 +1,23 @@
 {
-  "recommendations": [
-    "antfu.icons-carbon",
-    "arcticicestudio.nord-visual-studio-code",
-    "bradlc.vscode-tailwindcss",
-    "cdonohue.quill-icons",
-    "dbaeumer.vscode-eslint",
-    "dsznajder.es7-react-js-snippets",
-    "eamodio.gitlens",
-    "esbenp.prettier-vscode",
-    "formulahendry.auto-rename-tag",
-    "ms-azuretools.vscode-docker",
-    "ms-python.python",
-    "ms-python.vscode-pylance",
-    "ms-vscode-remote.remote-containers",
-    "ms-vscode-remote.remote-wsl",
-    "yzhang.markdown-all-in-one"
-  ]
+    "recommendations": [
+        "formulahendry.auto-rename-tag",
+        "aaron-bond.better-comments",
+        "antfu.icons-carbon",
+        "dsznajder.es7-react-js-snippets",
+        "github.github-vscode-theme",
+        "cdonohue.quill-icons",
+        "vscodevim.vim",
+        "ms-vscode-remote.remote-wsl",
+        "ms-azuretools.vscode-docker",
+        "streetsidesoftware.code-spell-checker",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "golang.go",
+        "esbenp.prettier-vscode",
+        "ms-python.vscode-pylance",
+        "ms-python.python",
+        "ms-python.debugpy",
+        "github.copilot",
+        "github.copilot-chat"
+    ]
 }
